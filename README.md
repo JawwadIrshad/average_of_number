@@ -1,1 +1,1 @@
-# average_of_number
+# average_of_number by using C++
